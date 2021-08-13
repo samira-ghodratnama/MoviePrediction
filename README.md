@@ -1,1 +1,2 @@
-# MoviePrediction
+In a world where movies made an estimated $41.7 billion in 2018, the film industry is more popular than ever. But what movies make the most money at the box office? How much does a director matter? Or the budget? For some movies, it's "You had me at 'Hello.'" For others, the trailer falls short of expectations and you think "What we have here is a failure to communicate."
+The goal of this project is to work with metadata on over 7,000 past films from The Movie Database to try and predict their overall worldwide box office revenue.
